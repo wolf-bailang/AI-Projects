@@ -1,6 +1,6 @@
 
 from item_baesd_cf_model import ItemBasedCF
-from data_pre_process import DataPreProcess
+from data_preprocess import DataPreProcess
 
 if __name__ == '__main__':
     # 文件路径
