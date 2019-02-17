@@ -1,7 +1,7 @@
 # Q* Learning with FrozenLake
 
 # @Thomas Simonini
-# https://github.com/simoninithomas/Deep_reinforcement_learning_Course/tree/master/Q%20learning/FrozenLake
+# https://github.com/simoninithomas/Deep_reinforcement_learning_Course/tree/master/Q%20learning/Taxi-v2
 
 # Import the dependencies
 import numpy as np
