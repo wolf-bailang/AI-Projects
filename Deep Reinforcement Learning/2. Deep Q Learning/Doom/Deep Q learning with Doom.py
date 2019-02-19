@@ -1,7 +1,7 @@
 # Deep Q learning with Doom
 
 # @Thomas Simonini
-#
+# https://github.com/wolf-bailang/Deep_reinforcement_learning_Course/tree/master/Deep%20Q%20Learning/Doom
 
 import tensorflow as tf      # Deep Learning library
 import numpy as np           # Handle matrices
