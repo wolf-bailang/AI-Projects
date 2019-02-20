@@ -8,3 +8,4 @@
 1. [Q learning/FrozenLake](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/1.%20Q%20learning/FrozenLake) 
 1. [Q learning/Taxi-v2](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/1.%20Q%20learning/Taxi-v2) 
 2. [Deep Q Learning/Doom](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/2.%20Deep%20Q%20Learning/Doom) 
+2. [Deep Q Learning/Space Invaders](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/2.%20Deep%20Q%20Learning/Space%20Invaders)
