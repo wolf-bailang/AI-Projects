@@ -12,3 +12,4 @@
 3. [Dueling Double DQN with PER and fixed-q targets](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/3.%20Dueling%20Double%20DQN%20with%20PER%20and%20fixed-q%20targets)
 4. [Policy Gradients/Cartpole](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/4.%20Policy%20Gradients/Cartpole)
 4. [Policy Gradients/Doom](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/4.%20Policy%20Gradients/Doom)
+4. [Policy Gradients/Doom Deathmatch](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/4.%20Policy%20Gradients/Doom%20Deathmatch)
