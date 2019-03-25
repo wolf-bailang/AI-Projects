@@ -1,7 +1,8 @@
 # AI-Projects
 **Recommender Systems**                                                                                               
 
-1. [Item-Based Collaborative Filtering Recommendation Algorithm](https://github.com/wolf-bailang/AI-Projects/tree/master/Recommender%20Systems/Item-Based%20Collaborative%20Filtering%20Recommendation%20Algorithm)
+1. [Item-Based Collaborative Filtering Recommendation Algorithm](https://github.com/wolf-bailang/AI-Projects/tree/master/Recommender%20Systems/Item-Based%20Collaborative%20Filtering%20Recommendation%20Algorithm)                                      
+2. [Based on Seq2Seq Model Recommendation Algorithm](https://github.com/wolf-bailang/AI-Projects/tree/master/Recommender%20Systems/Based%20on%20Seq2Seq%20Model%20Recommendation%20Algorithm)                              
 
 **Deep Reinforcement Learning**
 
