@@ -5,7 +5,7 @@
 2. [Based on Seq2Seq Model Recommendation Algorithm](https://github.com/wolf-bailang/AI-Projects/tree/master/Recommender%20Systems/Based%20on%20Seq2Seq%20Model%20Recommendation%20Algorithm)                              
 
 **Medical Images**
-1. Unet
+1. [Unet](https://github.com/wolf-bailang/AI-Projects/tree/master/Medical%20Images/Unet)
 
 **Deep Reinforcement Learning**
 
