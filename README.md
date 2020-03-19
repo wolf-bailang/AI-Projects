@@ -18,5 +18,5 @@
 4. [Policy Gradients/Doom](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/4.%20Policy%20Gradients/Doom)
 4. [Policy Gradients/Doom Deathmatch](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/4.%20Policy%20Gradients/Doom%20Deathmatch)
 
-**Robot Navigation**
-1. 
+**Robot Navigation**  
+1. [Lab1 Kinematic Model & Path Tracking Control]()
