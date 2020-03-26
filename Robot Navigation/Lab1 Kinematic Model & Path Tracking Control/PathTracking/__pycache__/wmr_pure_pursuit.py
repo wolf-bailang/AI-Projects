@@ -65,8 +65,8 @@ class PurePursuitControl:
                 # xg, yg, yawg, vg = self.path[i,0], self.path[i,1], self.path[i,2], self.path[i,3]
                 targetIdx = i
                 break
-        alpha = np.arctan2(y - self.path[targetIdx, 1], x - self.path[targetIdx, 0]) - np.deg2rad(yaw)
-        w = -2 * v * np.sin(alpha) / Ld
+        alpha = np.arctan2(self.path[targetIdx, 1] - y, self.path[targetIdx, 0] - x) - np.deg2rad(yaw)
+        w = 2 * v * np.sin(alpha) / Ld
         next_w = np.rad2deg(w)
         target = [self.path[targetIdx, 0], self.path[targetIdx, 1]]  #self.path[targetIdx]
 
@@ -91,6 +91,7 @@ if __name__ == "__main__":
     # Initialize Car
     car = KinematicModel()
     car.init_state((50,300,0))
+    start = (50,300,0)
     controller = PurePursuitControl()
     controller.set_path(path)
 
@@ -118,7 +119,7 @@ if __name__ == "__main__":
         cv2.imshow("Pure-Pursuit Control Test", img)
         k = cv2.waitKey(1)
         if k == ord('r'):
-            _init_state(car)
+            car.init_state(start)
         if k == 27:
             print()
             break

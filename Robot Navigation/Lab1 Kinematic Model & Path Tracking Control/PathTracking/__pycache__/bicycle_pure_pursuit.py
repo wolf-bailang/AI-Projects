@@ -84,16 +84,20 @@ class PurePursuitControl:
         next_delta = np.arctan2(2.0 * l * np.sin(alpha) / Ld, 1.0)
         target = min_idx
         """
+        targetdist= 99999999
+        targetIdx = 0
         for i in range(min_idx, self.path.shape[0]):
-            dist = (self.path[i, 0] - self.path[min_idx, 0]) ** 2 + (self.path[i, 1] - self.path[min_idx, 1]) ** 2
-            if dist >= Ld:
-                # xg, yg, yawg, vg = self.path[i,0], self.path[i,1], self.path[i,2], self.path[i,3]
+            #dist = (self.path[i, 0] - self.path[min_idx, 0]) ** 2 + (self.path[i, 1] - self.path[min_idx, 1]) ** 2
+            dist = (x - self.path[i, 0]) ** 2 + (y - self.path[i, 1]) ** 2
+            if (dist - Ld) < targetdist:
+                targetdist = dist
                 targetIdx = i
-                break
-        alpha = np.arctan2(y - self.path[targetIdx, 1], x - self.path[targetIdx, 0]) - np.deg2rad(yaw)
-        # if v < 0:  # back
-        #    alpha = np.pi - alpha
-        next_delta = np.arctan2(2.0 * l * np.sin(alpha) / Ld, 1.0)
+        #alpha = np.arctan2(y - self.path[targetIdx, 1], x - self.path[targetIdx, 0]) - np.deg2rad(yaw)
+        alpha = np.arctan2(self.path[targetIdx, 1] - y, self.path[targetIdx, 0] - x) - np.deg2rad(yaw)
+        if v < 0:  # back
+            alpha = np.pi - alpha
+        #next_delta = np.arctan2(2.0 * l * np.sin(alpha) / min_dist, 1.0)#Ld
+        next_delta = np.arctan(2.0 * l * np.sin(alpha) / Ld)
         next_delta = np.rad2deg(next_delta)
         target = [self.path[targetIdx, 0], self.path[targetIdx, 1]]
         # The next_delta is Pure Pursuit Control's output
