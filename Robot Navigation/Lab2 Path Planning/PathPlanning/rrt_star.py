@@ -51,7 +51,7 @@ class RRTStar():
         # this "if-statement" is not complete, you need complete this "if-statement"
         # you need to check the path is legal or illegal, you can use the function "self._check_collision"
         # illegal
-        if new_node[1]<0 or new_node[1]>=self.map.shape[0] or new_node[0]<0 or new_node[0]>=self.map.shape[1]
+        if new_node[1]<0 or new_node[1]>=self.map.shape[0] or new_node[0]<0 or new_node[0]>=self.map.shape[1] or self._check_collision(from_node, new_node):
         ####################################################################################################################################################
             return False, None
         # legal
@@ -85,8 +85,8 @@ class RRTStar():
                 # In the second line you need to calculate the new node’s cost.
                 ###################################################################
                 # after creat a new node in a tree, we need to maintain something
-                self.ntree[""" """] = 
-                self.cost[""" """] = 
+                self.ntree[new_node] = near_node
+                self.cost[new_node] = cost + self.cost[near_node]
                 ###################################################################
             else:
                 continue
@@ -105,8 +105,8 @@ class RRTStar():
                     # In the second line you need to calculate the new node’s cost.
                     ###################################################################
                     # update the new node's distance
-                    self.ntree[""" """] = 
-                    self.cost[""" """] = 
+                    self.ntree[new_node] = n
+                    self.cost[new_node] = cost
                     ###################################################################
 
             # Re-Wire
@@ -119,8 +119,8 @@ class RRTStar():
                     # In the second line you need to calculate the new node’s cost.
                     ###################################################################
                     # update the near node's distance
-                    self.ntree[""" """] = 
-                    self.cost[""" """] = 
+                    self.ntree[new_node] = n
+                    self.cost[new_node] = cost
                     ###################################################################
 
             # Draw
