@@ -137,11 +137,11 @@ class RRTStar():
                     cv2.circle(img_,pos_int(n),3,(0,0.7,1),2)
                 # Draw Image
                 img_ = cv2.flip(img_,0)
-                cv2.imshow("RRT* Test",img_)
+                #cv2.imshow("RRT* Test",img_)
                 k = cv2.waitKey(1)
                 if k == 27:
                     break
-        
+
         # Extract Path
         path = []
         n = goal_node
@@ -160,7 +160,7 @@ def pos_int(p):
 smooth = True
 if __name__ == "__main__":
     # Config
-    img = cv2.flip(cv2.imread("../Maps/map2.png"),0)
+    img = cv2.flip(cv2.imread("../Maps/map.png"),0)
     img[img>128] = 255
     img[img<=128] = 0
     m = np.asarray(img)

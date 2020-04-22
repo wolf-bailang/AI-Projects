@@ -51,7 +51,6 @@ class AStar():
             # meet obstacle, skip
             # 如果它是不可抵达的或者它在 close list 中，忽略它。
             if self.map[p[1],p[0]]<0.5:
-                
                 continue
             # find goal
             # 停止，当你把终点加入到了 open list 中，此时路径已经找到了，或者查找终点失败，并且 open list 是空的，
@@ -83,17 +82,21 @@ class AStar():
                 elif self.g[pn]>self.g[p] + inter:
                     self.parent[pn] = p
                     self.g[pn] = self.g[p] + inter
-            
+
+            # ////////////////////////////////////////////////////////////////////////
+
             if img is not None:
                 cv2.circle(img,(start[0],start[1]),5,(0,0,1),3)
                 cv2.circle(img,(goal[0],goal[1]),5,(0,1,0),3)
                 cv2.circle(img,p,2,(0,0,1),1)
                 img_ = cv2.flip(img,0)
-                cv2.imshow("A* Test",img_)
+
+                #cv2.imshow("A* Test",img_)
                 k = cv2.waitKey(1)
                 if k == 27:
                     break
-        
+
+            # ////////////////////////////////////////////////////////////////////////
         # Extract path
         path = []
         p = self.goal_node
@@ -120,7 +123,9 @@ if __name__ == "__main__":
     start=(100,200)
     goal=(380,520)
     astar = AStar(m)
-    path = astar.planning(start=start, goal=goal, img=img, inter=20)
+    print(m)
+    path = astar.planning(start=start, goal=goal, inter=20, img=img)
+    print("\rpath=")
     print(path)
 
     cv2.circle(img,(start[0],start[1]),5,(0,0,1),3)
