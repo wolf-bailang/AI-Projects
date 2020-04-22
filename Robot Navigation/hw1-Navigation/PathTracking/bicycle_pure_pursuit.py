@@ -114,14 +114,20 @@ if __name__ == "__main__":
 
     # Path
     path = path_generator.path2()
+    print("\rpath=")
+    print(path)
     img_path = np.ones((600,600,3))
+    print("\rimg_path 1=")
+    print(img_path)
     for i in range(path.shape[0]-1):
         cv2.line(img_path, (int(path[i,0]), int(path[i,1])), (int(path[i+1,0]), int(path[i+1,1])), (1.0,0.5,0.5), 1)
-
+    print("\rimg_path 2=")
+    print(img_path)
     # Initialize Car
     car = KinematicModel()
     start = (50,300,0)
     car.init_state(start)
+
     controller = PurePursuitControl(kp=1, Lfc=10)
     controller.set_path(path)
 
@@ -129,6 +135,8 @@ if __name__ == "__main__":
         print("\rState: "+car.state_str(), end="\t")
         # ================= Control Algorithm ================= 
         # PID Longitude Control
+        #print("\rpath=")
+        #print(path)
         end_dist = np.hypot(path[-1,0]-car.x, path[-1,1]-car.y)
         target_v = 40 if end_dist > 265 else 0
         next_a = 0.1*(target_v - car.v)

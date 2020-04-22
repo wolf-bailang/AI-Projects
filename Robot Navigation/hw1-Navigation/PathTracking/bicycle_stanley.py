@@ -36,15 +36,31 @@ class StanleyControl:
 
         # step by step
         # first you need to find the nearest point on the path(centered on the front wheel, previous work all on the back wheel)
-        min_idx, min_dist = self._search_nearest((x, y))
+        xf = x + l*np.cos(np.deg2rad(yaw))
+        yf = y + l * np.sin(np.deg2rad(yaw))
+        min_idx, min_dist = self._search_nearest((xf, yf))
         # second you need to calculate the theta_e by use the "nearest point's yaw" and "model's yaw"
-        #theta_e = delta - np.arcsin(-self.kp * e / vf)
         theta = yaw
+        """
+        if theta < -180:
+            theta = -(180 + theta)
+        elif theta > 180:
+            theta = -(-180 + theta)
+        """
+        if theta < -180:
+            theta = 360 + theta
+        elif theta > 180:
+            theta = -360 + theta
+
         theta_p = self.path[min_idx, 2]
-        theta_e = theta_p - theta
+        theta_e = (theta_p - theta)
+        #print("    theta = ",theta)
+        #print("    theta_p = ", theta_p)
+        #print("    theta_e = ", theta_e)
+
         # third you need to calculate the v front(vf) and error(e)
-        vf = self.path[min_idx, 3]
-        e = (x - self.path[min_idx, 0]) * np.cos(theta_p + 90) + (y - self.path[min_idx, 1]) * np.sin(theta_p + 90)
+        vf = v / np.cos(np.deg2rad(delta)) # self.path[min_idx, 3]
+        e = (xf - self.path[min_idx, 0]) * np.cos(np.deg2rad(theta_p + 90)) + (yf - self.path[min_idx, 1]) * np.sin(np.deg2rad(theta_p + 90))
         # now, you can calculate the delta
         """
         if v == 0:
@@ -53,8 +69,11 @@ class StanleyControl:
             delta = np.arctan2(-self.kp * e /vf ,1.0) + np.deg2rad(theta_e)
             next_delta = np.rad2deg(delta)
         """
-        delta = np.arctan2(-self.kp * e / vf, 1.0) + np.deg2rad(theta_e)
-        next_delta = np.rad2deg(delta)
+        if vf == 0:
+            delta = theta_e
+        else:
+            delta = np.rad2deg(np.arctan(-self.kp * e / vf)) + theta_e
+        next_delta = int(delta) #% 360
         target = [self.path[min_idx, 0], self.path[min_idx, 1]]
         # The next_delta is Stanley Control's output
         # The target is the point on the path which you find
