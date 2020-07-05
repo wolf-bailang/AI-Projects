@@ -1,0 +1,121 @@
+[RNE 2020] Week 1 - Introduction
+https://youtu.be/edIOR-v_dsE
+
+[RNE 2020] Week 2-1 - Control System Basics
+https://youtu.be/MDjKQdX8eDQ
+
+[RNE 2020] Week 2-2 - PID Control
+https://youtu.be/O1t1-w6WEv0
+
+[RNE 2020] Week 2-3 - Basic Kinematic Model
+https://youtu.be/qfiCJxNUrds
+
+[RNE 2020] Week 2-4 - Kinematic Bicycle Model
+https://youtu.be/NR3YBSV6NUM
+
+[RNE 2020] Week 2-5 - Lab 1: Control
+https://youtu.be/LLj_eiK7Mcc
+
+[RNE 2020] Week 3-1 - Motion Planning Introduction
+https://youtu.be/vuokhV8b_Fc
+
+[RNE 2020] Week 3-2 - Path Planning
+https://youtu.be/x6reBnUbj6g
+
+[RNE 2020] Week 3-3 - Curve Interpolation
+https://youtu.be/tC04Mc2G12k
+
+[RNE 2020] Week 3-4 - Trajectory Planning
+https://youtu.be/cs1KmQWk92Y
+
+[RNE 2020] Week 4-1 - State Estimation and SLAM Problem (New)
+https://youtu.be/w5iV_q69eQg
+
+[RNE 2020] Week 4-1 - State Estimation and SLAM Problem
+https://youtu.be/WChrDb4AHeM
+
+[RNE 2020] Week 4-2 - Probability Theory and Bayes Filter
+https://youtu.be/EyhGVy2esE8
+
+[RNE 2020] Week 4-3 - Kalman Filter / Extended Kalman Filter
+https://youtu.be/Mwki82EELlM
+
+[RNE 2020] Week 5-1 - Particle Filter & Fast SLAM
+https://youtu.be/8gzrnI-Wno4
+
+[RNE 2020] Week 5-2 - Occupancy Grid Map & Laser Beam Model
+https://youtu.be/TRocFzOD2gM
+
+[RNE 2020] Week 5-3 - Graph based Optimization
+https://youtu.be/OH0eyCmYEbY
+
+[RNE 2020] Week 6-1 Graph Optimization for 2D SLAM
+https://youtu.be/xVws_W3Y9_A
+
+[RNE 2020] Week 6-2 - Feature Descriptor & Multi-view Geometry
+https://youtu.be/9pB8zTihkxs
+
+[RNE 2020] Week 8-1 - Multi-view Geometry
+https://youtu.be/p7oXsyjQG1Y
+
+[RNE 2020] Week 8-2 - Lie Group & Lie Algebra
+https://youtu.be/16lkTtzl7zo
+
+[RNE 2020] Week 8-3 - ORB SLAM
+https://youtu.be/1_0-4TnIpXY
+
+[RNE 2020] Week 9 - SLAM : Direct Method
+https://youtu.be/moLIEbJFJEM
+
+[RNE 2020] Week 9 - Lab 4: ORB SLAM on JetBot
+https://youtu.be/9SyLLsy1k58
+
+[RNE 2020] Week 10-1 - Machine Learning Basics
+https://youtu.be/iSuvWVUMf90
+
+[RNE 2020] Week 10-2 - Deep Learning Basics
+https://youtu.be/1dJjSayJl_U
+
+[RNE 2020] Week 10-3 - Deep Learning in Computer Vision Part 1
+https://youtu.be/5B3m_-eQN-c
+
+[RNE 2020] Week 11-1 - Deep Learning in Computer Vision Part 2
+https://youtu.be/2_-TX4Z8MrI
+
+[RNE 2020] Week 11-2 - Deep Learning in Computer Vision Part 3
+https://youtu.be/M132xWpQI6o
+
+[RNE 2020] Week 11-3 - Lab5: Semantic Segmentation with Pytorch
+https://youtu.be/PbKQmIKKKDo
+
+[RNE 2020] Week 12-1 Markov Decision Process (MDP)
+https://youtu.be/r3XSC3KFLds
+
+[RNE 2020] Week 12-2 Value-based Reinforcement Learning
+https://youtu.be/0GbWIqNbcys
+
+[RNE 2020] Week 13-1 - Policy-based Reinforcement Learning (Part 1)
+https://youtu.be/w4_EMal39YA
+
+[RNE 2020] Week 13-1 - Policy-based Reinforcement Learning (Part 1)
+https://youtu.be/w4_EMal39YA
+
+[RNE 2020] Week 13-2 - Policy-based Reinforcement Learning (Part 2)
+https://youtu.be/GLNnfSEwpzo
+
+[RNE 2020] Week 13 - Lab6: Model-free RL for Mapless Navigation
+https://youtu.be/WEJa-Mt4qsI
+
+[RNE 2020] Week 14 - Final Project Introduction
+https://youtu.be/Jv4vy7fk2vg
+
+
+2020 機器導航與探索 Ｑ＆Ａ
+https://hackmd.io/qV8fXoWKT7uO7aPuO-lpcw?both&fbclid=IwAR3XqlZIoyt3S5_oNUe3pdnCiP6imGCPWbR1hGfMbVBkxzpKdtvsETEGoWk
+
+[Paper] Combining Optimal Control and Learning for Visual Navigation in Novel Environments
+https://hackmd.io/6Rv-gAMoRa-FN-Ho54XNkg
+
+Final Project -Group3
+https://hackmd.io/gr5z9mCaR6yg1F7hjNv4jA?fbclid=IwAR3HRcUka01W794iDPEXw6rJc7ng-wvBtbw-GXtB-8gIf4P4I3zaN9vL1QE
+
