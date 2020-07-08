@@ -1,0 +1,18 @@
+Following the steps:
+
+1. [Run Server] 
+cd Message-Server
+cd zjb/FinalProject/Jetbot-Simulator-Package-Linux/Message-Server
+./DataServer
+
+2. [Run Simulator] 
+cd Unity-Simulator
+cd zjb/FinalProject/Jetbot-Simulator-Package-Linux/Unity-Simulator
+sh run.sh
+
+3. [Run Python Code] 
+cd Python-Wrapper
+cd zjb/FinalProject/Jetbot-Simulator-Package-Linux/Python-Wrapper
+python example_whx.py
+python lane_following_pp.py lane_following.py
+python CollisionAvoidance_z1.py
