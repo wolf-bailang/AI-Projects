@@ -28,16 +28,12 @@
 7. [hw1-Navigation](https://github.com/wolf-bailang/AI-Projects/tree/master/Robot%20Navigation/hw1-Navigation)
 
 **Computer Vision**
-1. [Camera Calibration]()  
-1.1 Corner detection()
-1.2 Find the intrinsic matrix
-1.3 Find the extrinsic matrix
-1.4 Find the distortion matrix
-2. [Augmented Reality]()
-3. [Stereo Disparity Map]()
-4. [SIFT]()
-	4.1 Show keypoints
-	4.2 Show matching keypoints
+1. [Camera Calibration](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/Camera%20Calibration)  
+1.1 Corner detection   1.2 Find the intrinsic matrix    1.3 Find the extrinsic matrix   1.4 Find the distortion matrix
+2. [Augmented Reality](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/Camera%20Calibration)  
+3. [Stereo Disparity Map](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/Camera%20Calibration)  
+4. [SIFT](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/Camera%20Calibration)  
+4.1 Show keypoints   4.2 Show matching keypoints
 
 
 
