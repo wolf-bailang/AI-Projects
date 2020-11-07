@@ -104,6 +104,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         # specify the names of the classes
         classes_dict = {0: 'airplane', 1: 'automobile', 2: 'bird', 3: 'cat', 4: 'deer', 5: 'dog', 6: 'frog', 7: 'horse',
                         8: 'ship', 9: 'truck'}
+        """"
         # plot 25 random images from training dataset
         fig, axs = plt.subplots(2, 5, figsize=(10, 10))
         for batch_idx, (inputs, labels) in enumerate(trainloader):
@@ -115,13 +116,29 @@ class MainWindow(QMainWindow, Ui_MainWindow):
                 axs[i, j].axis('off')
                 axs[i, j].set_title(classes_dict[int(labels[im].numpy())])
             break
+        """
+        fig, axs = plt.subplots(nrows=2, ncols=5, figsize=(10, 10))
+        fig.subplots_adjust(wspace=0.5, hspace=0.5)
+        for batch_idx, (inputs, labels) in enumerate(trainloader):
+            for im in range(10):
+                image = inputs[im].permute(1, 2, 0)
+                i = im // 5
+                j = im % 5
+                axs[i, j].imshow(image.numpy())  # plot the data
+                axs[i, j].axis('off')
+                axs[i, j].set_title(classes_dict[int(labels[im].numpy())], fontsize=20)
+                axs[i][j].axes.get_xaxis().set_visible(False)
+                axs[i][j].axes.get_yaxis().set_visible(False)
+            break
         # set suptitle
-        plt.suptitle('CIFAR-10 Images')
+        # plt.suptitle('CIFAR-10 Images')
+        plt.tight_layout(pad=0, h_pad=0.5, w_pad=0.5, rect=None)
         plt.savefig(self.current_path + "/train.png")
+        # plt.show()
         img = cv2.imread(self.current_path + "/train.png")
         # print(img.shape)
-        cropped = img[0:800, 120:910]  # 裁剪坐标为[y0:y1, x0:x1]
-        img = cv2.resize(cropped, (480, 380))
+        cropped = img[140:840, 0:1000]  # 裁剪坐标为[y0:y1, x0:x1]
+        img = cv2.resize(cropped, (480, 271))
         io.imsave(self.current_path + "/trainPixmap.png", img)
         pix = QPixmap(self.current_path + "/trainPixmap.png")
         self.label_inputimage_8.setPixmap(pix)
@@ -163,9 +180,9 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.get_current_path()
         VGG16_Classifier(train_model=False, resume=True)
         img = cv2.imread(self.current_path + "/Accuracy_Loss.png")
-        # print(img.shape)
+        print(img.shape)
         cropped = img[50:670, 15:526]  # 裁剪坐标为[y0:y1, x0:x1]
-        img = cv2.resize(cropped, (471, 371))
+        img = cv2.resize(cropped, (471, 471))
         io.imsave(self.current_path + "/Accuracy_LossPixmap.png", img)
         pix = QPixmap(self.current_path + "/Accuracy_LossPixmap.png")
         self.label_inputimage_16.setPixmap(pix)
