@@ -45,6 +45,7 @@
 5. [VGG16_Classifier](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/VGG16_Classifier)  
 6. [Background Subtraction](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/Background%20Subtraction)  
 7. [Perspective Transform](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/Perspective%20Transform)  
+8. [PCA Image Reconstruction](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/PCA%20Image%20Reconstruction)  
 
 
 
