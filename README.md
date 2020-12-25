@@ -43,6 +43,7 @@
 4.1 Show keypoints  
 4.2 Show matching keypoints
 5. [VGG16_Classifier](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/VGG16_Classifier)  
+6. [Background Subtraction](https://github.com/wolf-bailang/AI-Projects/tree/master/Computer%20Vision/Background%20Subtraction)  
 
 
 
