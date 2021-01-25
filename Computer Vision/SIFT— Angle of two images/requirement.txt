@@ -1,0 +1,8 @@
+numpy==1.19.3
+opencv-contrib-python==3.4.2.28
+Pillow==8.0.1
+python-dateutil==2.8.1
+scipy==1.4.1
+six==1.15.0
+
+
