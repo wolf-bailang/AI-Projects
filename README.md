@@ -33,7 +33,7 @@
 4. [Policy Gradients/Doom Deathmatch](https://github.com/wolf-bailang/AI-Projects/tree/master/Deep%20Reinforcement%20Learning/4.%20Policy%20Gradients/Doom%20Deathmatch)  
 
 **Graph Neural Netowrks**
-1. [2021_Stanford_CS224W: Machine Learning with Graphs(https://github.com/wolf-bailang/AI-Projects/tree/master/Graph%20Neural%20Netowrks/2021_Stanford_CS224W:%20Machine%20Learning%20with%20Graphs)
+1. [2021_Stanford_CS224W: Machine Learning with Graphs](https://github.com/wolf-bailang/AI-Projects/tree/master/Graph%20Neural%20Netowrks/2021_Stanford_CS224W:%20Machine%20Learning%20with%20Graphs)
 
 **Machine Learning**
 1. [Fuzzy-c-Means](https://github.com/wolf-bailang/AI-Projects/tree/master/Machine%20Learning/Fuzzy-c-Means) 
