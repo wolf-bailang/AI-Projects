@@ -22,7 +22,7 @@ matplotlib==3.1.1
 networkx==2.5
 numpy==1.18.5
 oauthlib==3.1.0
-opencv-contrib-python==3.4.2.17
+opencv-contrib-python==3.4.7.28
 opt-einsum==3.3.0
 Pillow==7.2.0
 protobuf==3.13.0
