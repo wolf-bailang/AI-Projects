@@ -20,7 +20,7 @@ kiwisolver==1.2.0
 Markdown==3.3
 matplotlib==3.1.1
 networkx==2.5
-numpy==1.18.5
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-contrib-python==3.4.2.17
 opt-einsum==3.3.0
