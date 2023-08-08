@@ -1,0 +1,420 @@
+不“丢脸”实现人脸识别，使用TiFGAN合成音频 | AI Scholar Weekly
+https://mp.weixin.qq.com/s/nYwekEq6fP2n8YmTKA7Zow
+DeepMind让AI组队踢足球学会“合作”，并开源训练环境
+https://mp.weixin.qq.com/s/WabOUqqK6RW8mTNR53esYQ
+NLP 中评价文本输出都有哪些方法？为什么要小心使用 BLEU？
+https://mp.weixin.qq.com/s/VYC1x9QwjhhAm1LW8Wg6Qg
+无人驾驶关键技术拆解
+https://mp.weixin.qq.com/s/20mxjhkeaiX7UYtyoZYIgg
+干货 | Kaggle 光度测定 LSST 天文时间序列分类挑战赛冠军出炉，看他提高分数的秘诀
+https://mp.weixin.qq.com/s/_87MuzBnDs0cLRlA9dJlmQ
+Github项目推荐 | Photo-Sketching 从图片到涂鸦：高品质涂鸦的自动生成（推断）
+https://mp.weixin.qq.com/s/ZJkEJg6_zPp3B92zIl7qnA
+Github项目推荐 | RecQ - Python推荐系统框架
+https://mp.weixin.qq.com/s/UvoeuAWkVAwI2hBCSKyXOg
+Github项目推荐 | Optuna - 支持剪枝&并行化的贝叶斯超参数优化框架
+https://mp.weixin.qq.com/s/1egF5-zem8Q8udhVuCPQ0w
+Github项目推荐 | Chatito - 使用简单的DSL为AI聊天机器人、NLP任务、命名实体识别或文本分类模型生成数据集
+https://mp.weixin.qq.com/s/nPpGyTC4h-XR4izRXLZBOw
+Github项目推荐 | Project Alias - 智能设备开源唤醒/激活方案
+https://mp.weixin.qq.com/s/C0TpiULucoDRQymEfZ0xIA
+一文带你读懂 WaveNet：谷歌助手的声音合成器
+https://mp.weixin.qq.com/s/YGa7aFrpIaREobRWSI7t5A
+Github项目推荐 | Sentence Classification - 神经网络句子分类(陈述/疑问/感叹/祈使)
+https://mp.weixin.qq.com/s/dGDfJc4fwJQD8gFmnosjfA
+Github项目推荐 | Deepy - 基于 Numpy 的小巧优雅简单的(Python)深度学习库
+https://mp.weixin.qq.com/s/3lxPchw0F_waolUf3YqlBQ
+深度学习目标检测算法综述
+https://mp.weixin.qq.com/s/LeksmJTLJ91vR3g1KqwSMA
+腊月廿八 | 强化学习-TRPO和PPO背后的数学
+https://mp.weixin.qq.com/s/1sr08aexQiFGd2yb9yqeUQ
+动态 | 让聊天 AI 一边聊天一边学习？Facebook 和斯坦福合作实现了
+https://mp.weixin.qq.com/s/R1yQtQSinqlv8nwB0s5dZA
+动态 | 视觉问答领域又一力作！斯坦福大学教授发布图像场景图问答数据集 GQA
+https://mp.weixin.qq.com/s/btWs3LU4nNcMqAolzycjfA
+一文带你读懂线性分类器
+https://mp.weixin.qq.com/s/G_TBRk0PlU7Ex1AuXV25Gg
+如何用Keras来构建LSTM模型，并且调参
+https://mp.weixin.qq.com/s/Twx56KFxlkXhnuCiEJFjog
+动态 | FAIR 最新论文：一种不需要训练就能探索句子分类的随机编码器
+https://mp.weixin.qq.com/s/zhTo0oKt_hOB7YVc_QC8ow
+盘点图像分类的窍门
+https://mp.weixin.qq.com/s/qc5DUDxVYDwPhCrlNqPyHA
+Github项目推荐 | 周期随机梯度MCMC——用于在贝叶斯深度学习复杂多模式后验中进行有效采样
+https://mp.weixin.qq.com/s/fMkSQadCKj0lf1y-0e-xQw
+注意力的动画解析（以机器翻译为例）
+https://mp.weixin.qq.com/s/8HeYLxZOvub57yHLpZ-HOg
+Github项目推荐 | 基于 deepfakes （视频换脸）的非官方项目deepfakes_faceswap
+https://mp.weixin.qq.com/s/darNkPtwMG2kO-gzjC3n7g
+赠书福利 | 《自然语言处理实践——聊天机器人技术原理及应用》新书上市
+https://mp.weixin.qq.com/s/6DwEPFVQD0QSIeFiyjv6gg
+Github项目推荐 | awesome-Face_Recognition：人脸识别相关资源大列表
+https://mp.weixin.qq.com/s/clKI6kuDURUjMfCgTwHHnw
+Github项目推荐 | SC-FEGAN：基于GAN的人脸照片涂鸦编辑
+https://mp.weixin.qq.com/s/4BSNMHpYtxcGYwYor_anNw
+Facebook实时人体姿态估计：Dense Pose及其应用展望
+https://mp.weixin.qq.com/s/-A87-z5inWBsF1-5UYagTA
+人脸识别技术全面总结：从传统方法到深度学习
+https://mp.weixin.qq.com/s/HteNoL3hkjNgUTbGguMflQ
+ICLR 2019 | 与胶囊网络异曲同工：Bengio等提出四元数循环神经网络
+https://mp.weixin.qq.com/s/F9SGZPZj6gup_nOVuDel6A
+想成为高效数据科学家？不会Pandas怎么行
+https://mp.weixin.qq.com/s/03cItZvVUHfHUqQs60yJDQ
+绝佳的ASR学习方案：这是一套开源的中文语音识别系统
+https://mp.weixin.qq.com/s/VkKFQ0fOOHJw0p7Z4EDugQ
+让智能体主动交互，DeepMind提出用元强化学习实现因果推理
+https://mp.weixin.qq.com/s/K7sLM-LMcF6-gQrV1ddrDw
+GLUE排行榜上全面超越BERT的模型近日公布了！
+https://mp.weixin.qq.com/s/E7FLbXYvE9irSpJ9Cdx5tg
+图解神经机器翻译中的注意力机制
+https://mp.weixin.qq.com/s/Q0Ft5bWTuiZUIQSTk7X6ZQ
+预见未来！李飞飞等提出端到端系统Next预测未来路径与活动
+https://mp.weixin.qq.com/s/gnbzfaH79Idmw-r0G6TRHg
+李沐等将目标检测绝对精度提升 5%，不牺牲推理速度
+https://mp.weixin.qq.com/s/flXzhQ-Ypf3fwTqLelLzOQ
+效率提高50倍！谷歌提出从图像中学习世界的强化学习新方法
+https://mp.weixin.qq.com/s/dlOFM7LuOF2npDP_EaITvg?
+如何利用深度学习模型实现多任务学习？这里有三点经验
+https://mp.weixin.qq.com/s/MPhKUosKZbLtVjJ1XYGXYA
+结合人工智能的高性能医学：现状、挑战与未来
+https://mp.weixin.qq.com/s/u-taX_kQXX2sBW8sT6ZZYg
+67 亿美金搞个图，创建知识图谱的成本有多高你知道吗？
+https://mp.weixin.qq.com/s/R-mY_23bqol1VfA1125xiw
+机器学习中如何处理不平衡数据？
+https://mp.weixin.qq.com/s/x48Ctb0_Eu1kcSGTYLt5BQ
+这份攻略帮你「稳住」反复无常的 GAN
+https://mp.weixin.qq.com/s/I7mpy5P7LFFkop618ANLtA
+造福社会工科生：如何用机器学习打造空气检测APP
+https://mp.weixin.qq.com/s/gdBdEvSm42S35TrmzlXi3Q
+请快点粘贴复制，这是一份好用的TensorFlow代码集
+https://mp.weixin.qq.com/s/ggfrhp8R6rIPWgY0BPHNWA
+AAAI 2019 | 云从科技联手上海交大提出端到端统一语义角色标注
+https://mp.weixin.qq.com/s/Y99PgmD3ilHGhURWFL6rzg
+雷军强推：小米造最强超分辨率算法，现已开源
+https://mp.weixin.qq.com/s/RDMb8YD3K_E06RxAgwwOnw
+图卷积网络到底怎么做，这是一份极简的Numpy实现
+https://mp.weixin.qq.com/s/sg9O761F0KHAmCPOfMW_kQ
+数据清洗&预处理入门完整指南
+https://mp.weixin.qq.com/s/r7ngZOM9tO-_OSfvs2aDJw
+春招已近，这份GitHub万星的ML算法面试大全请收下
+https://mp.weixin.qq.com/s/gUujyjv5lU_umtpRURh24w
+CNN能同时兼顾速度与准确度吗？CMU提出AdaScale
+https://mp.weixin.qq.com/s/GJ7JMtWiKBku7dVJWOfLOA
+AI Challenger 2018：细粒度用户评论情感分类冠军思路总结
+https://mp.weixin.qq.com/s/FJtMDoNksSZLYdoEzixJTQ
+新春大礼包：技术人必读的书单（文末有福利）
+https://mp.weixin.qq.com/s/cOK7ETevEl2ODO_eqFdMzA
+将军令：数据安全平台建设实践
+https://mp.weixin.qq.com/s/hk8I_93fyS5NWholu6v8_Q
+深度学习在美团配送ETA预估中的探索与实践
+https://mp.weixin.qq.com/s/98X2agJlZcCH6IdZqf9m0A
+WSDM Cup 2019自然语言推理任务获奖解题思路
+https://mp.weixin.qq.com/s/-ImgNNylBcU9tPxCP3pwbA
+这是一份给技术人的新春贺礼，请查收！
+https://mp.weixin.qq.com/s/y0wdVoTkt-dgkAcqRRqJew
+朴素贝叶斯算法的优缺点
+https://mp.weixin.qq.com/s/Oxfa6Xvqx5BCO46CMGZB-w
+NLP、CV、ML全覆盖，这份私藏论文清单你一定要看看
+https://mp.weixin.qq.com/s/y5aumXb2dA6gc_HK31EttQ
+一年学遍吴恩达、李飞飞、周志华等16大精品课！（ML、CV、NLP一应俱全）
+https://mp.weixin.qq.com/s/ZRy5n7RIj7RvdkFwa3K9dQ
+AAAI 2019 Oral | 把Cross Entropy梯度分布拉‘平’，就能轻松超越Focal Loss
+https://mp.weixin.qq.com/s/Uf1lWtxOpKYCDLmCDlnVAQ
+逃离数学焦虑、算法选择，思考做好机器学习项目的3个核心问题
+https://mp.weixin.qq.com/s/ekxpjjcKpwgW7FtxRx8MRw
+深度思考 | 从BERT看大规模数据的无监督利用
+https://mp.weixin.qq.com/s/2f91Ksj19rk_emoFpEmPfA
+盘它！40篇+阿里技术经典案例，看完必收藏
+https://mp.weixin.qq.com/s/pm-6fG5egLBBNiqSzSwaTg
+你睡着了吗？不如起来给你的睡眠分个类吧！
+https://mp.weixin.qq.com/s/OhdqwUuONRyEp8evB7f29g
+Github项目推荐 | GtS 仿真泛化：将仿真和真实数据集成到基于视觉的自主飞行深度强化学习中
+https://mp.weixin.qq.com/s/nvmcNqWxx65S91yCnmw_lw
+新的一年，想发有关对话系统的paper？快关注时下最大热点：智能化与个性化
+https://mp.weixin.qq.com/s/AqzdRoXthrUFUOqSNwgfqQ
+为新研究准备好一块用武之地：最全任务型对话数据调研
+https://mp.weixin.qq.com/s/EhsJzWLT6Qtp2gaKfg5oqA
+Byte Cup 2018国际机器学习竞赛夺冠记
+https://mp.weixin.qq.com/s/2Mh68gfbG_5gKnoICuRmeA
+清华178页深度报告：一文看懂AI数据挖掘 | 智东西内参
+https://mp.weixin.qq.com/s/K2aWINJQ4OZVgqRMAoumoQ
+在小公司如何做一名成功的数据科学家
+https://mp.weixin.qq.com/s/2u8IDoZ4426m8OrADcdy4A
+哥大应用机器学习资料放出，注重课程实践
+https://mp.weixin.qq.com/s/_YnIW5JFqJYQixdujT1A6A
+手把手教你用Python玩转时序数据，从采样、预测到聚类丨代码
+https://mp.weixin.qq.com/s/FRSe1mJTvk9U66ta-r9iCQ
+李飞飞团队造出“窥视未来”新AI：去哪干啥一起猜，准确率压倒老前辈
+https://mp.weixin.qq.com/s/St1FWw13gE_e8jikzLwpug
+数据科学中必须熟知的5种聚类算法
+https://mp.weixin.qq.com/s/VzZ9uoVDbgllFxVuMszD_g
+不用看数学公式！图解谷歌神经机器翻译核心部分：注意力机制
+https://mp.weixin.qq.com/s/s8sKoTzqyf-_-N0TSLnPow
+论文终于公布！腾讯开源最大规模多标签图像数据集，刷新行业数据集基准
+https://mp.weixin.qq.com/s/GkQ5x14i9SJuWSOc9skL9Q
+新年Flag：搞定Python中的“功夫熊猫”，做最高效的数据科学家
+https://mp.weixin.qq.com/s/c5t3w1OvXCZTUtPhLmA92A
+大牛书单 | 人工智能方向好书推荐（附推荐语）
+https://mp.weixin.qq.com/s/MzYwDSAQVmZzwFn0CkxCQw
+【书单】计算机科学新生课外阅读推荐（共10本）
+https://mp.weixin.qq.com/s/wirwcPVb17MLxC00Pj2t9A
+沈向洋力荐，周明、李沐执笔：要了解智能问答和机器翻译，先看这两本书！
+https://mp.weixin.qq.com/s/IPbInCl_0BpHJ3ZyrhsKaA
+必读！史上引用次数最多的机器学习论文 Top 10
+https://mp.weixin.qq.com/s/fiVyhyQwnOR-AXkj5Y_Ztg
+春节充电指南：这份AI书单，哈佛、MIT教授力荐
+https://mp.weixin.qq.com/s/Mryesq2yWfm_hCeOqZeZOQ
+必备收藏！8500+公开代码论文，950多项机器学习任务最优结果汇总
+https://mp.weixin.qq.com/s/Wx4DLctES74Kjs53vrY8KQ
+【收藏】机器学习开源框架大总结，总有一款适合你
+https://mp.weixin.qq.com/s/tYrYOLPnUThyljIcpC_LWQ
+FAIR&MIT提出知识蒸馏新方法：数据集蒸馏
+https://mp.weixin.qq.com/s/mFuxCl0Mzv5hmDFewWZkrw
+9大门类，99个系列课程，几乎所有AI免费课程都在这里啦
+https://mp.weixin.qq.com/s/_ygSphLtQgGUegSlsWAxXg
+你也能用英伟达GAN造脸了：官方实现有了，高清数据集也开源了
+https://mp.weixin.qq.com/s/byEa0rnfBU3WP0KzOMZBVw
+如何丝滑地入门神经网络？写个AI赛车游戏，只训练4代就能安全驾驶
+https://mp.weixin.qq.com/s/sHP03DAeZvdBxwVPuSNRPg
+AI所有领域最优论文+代码查找神器：966个ML任务、8500+论文任你选
+https://mp.weixin.qq.com/s/71N6KlNi8swy80PKv4rJLw
+干货警告！476个PyTorch资源大合集推荐，GitHub超过3600星
+https://mp.weixin.qq.com/s/bZIPn_MMT0wPyS71UmsrfQ
+史上最全AI开源项目集结，近万篇附代码的论文分门别类整理好
+https://mp.weixin.qq.com/s/8pxSApEv1s7GS-IiAmv0hA
+AAAI 2019 | 百度、MIT等提出StNet：局部+全局的视频时空联合建模
+https://mp.weixin.qq.com/s/MzVPesFK0vJ1UuQPPSSN2w
+多伦多大学出品：Coursera宣布首个自动驾驶专项课程
+https://mp.weixin.qq.com/s/-8DVgyvzlryyehIjTlA1Mg
+南开大学开源新图像分割算法，刷新精度记录 | 资源
+https://mp.weixin.qq.com/s/oDNhYxNBPKBEf148yey50A
+官方推荐！用TensorFlow 2.0做深度学习入门教程 | 资源
+https://mp.weixin.qq.com/s/FhK1qfT5m9gTjTUlm9471Q
+MIT课程全面解读2019深度学习最前沿 | 附视频+PPT
+https://mp.weixin.qq.com/s/cGKsZYxrVP7hVnv7Jli9Zg
+深度学习资源一网打尽！论文、数据集、框架、课程、图书等应有尽有
+https://mp.weixin.qq.com/s/P5p1h3x_ovWjYQsVTK1eug
+最新开源的目标检测与物体识别框架，已刷新COCO单模型算法纪录
+https://mp.weixin.qq.com/s/Sq76xp3aojB5RxvNxAn3vQ
+去噪、去水印、超分辨率，这款不用学习的神经网络无所不能
+https://mp.weixin.qq.com/s/MePEEuwH-e5c2hwiEXo2wg
+AAAI 2019论文解读：机器人和认知学习
+https://mp.weixin.qq.com/s/ClowUXgra7CTPcaP64F3lQ
+实时单人姿态估计，在自己手机上就能实现 : ) 安卓和iOS都可以哦～
+https://mp.weixin.qq.com/s/CN4h_TnzkXZRf9-bXY8cdg
+40行Python代码，实现卷积特征可视化
+https://mp.weixin.qq.com/s/0MYnxzise3-JR8eLwHlCow
+AI换脸无法识别？这里有个方法
+https://mp.weixin.qq.com/s/8RKiJ344qt8dqJ92SoDOmg
+专栏 | SimpleDet：一套简单通用的目标检测与物体识别框架
+https://mp.weixin.qq.com/s/2guhcsNm7xOkXwrfLRFAkw
+支持53种语言预训练模型，斯坦福发布全新NLP工具包StanfordNLP
+https://mp.weixin.qq.com/s/QQpFRgOQvvJxirkk2DVZPQ
+用Python快速实现经典排序算法的可视化
+https://mp.weixin.qq.com/s/pnsjaRfzAbzFtAu1cWsogQ
+从入门到进阶必看，51本Python精品书籍免费送！
+https://mp.weixin.qq.com/s/VIksy1DZ4eTCkWSPyL53ug
+一行代码搞定 Scrapy 随机 User-Agent 设置
+https://mp.weixin.qq.com/s/uGFVdif0k_iMoMMLyNTkWw
+用Python解读最值得期待的春节档影片是......
+https://mp.weixin.qq.com/s/J1tjtGIVRt0vAj5EYJNQeA
+基于20万条消息，客服聊天机器人养成记
+https://mp.weixin.qq.com/s/q-lvDyHxa9hvkPEkDDOx0A
+Github项目推荐 | Nauta - 基于至强处理器的可扩展系统运行深度学习模型训练实验的多用户分布式计算环境
+https://mp.weixin.qq.com/s/33GktuWoV3xehoKLeSgNmQ
+来！人工智能和数据科学的七大 Python 库
+https://mp.weixin.qq.com/s/WdoptTuwdQOhbPG74JuOJQ
+主宰这个世界的10大算法
+https://mp.weixin.qq.com/s/9fo1JslizrHlLgEO5TnvjQ
+官方推荐！用TensorFlow 2.0做深度学习入门教程 | 资源
+https://mp.weixin.qq.com/s/cikbhFwAYlNg07AU2Eb4TQ
+直面难题！NLP四大开放性问题详解
+https://mp.weixin.qq.com/s/4JZn9soDZwKnkeQKYVV2rg
+100多个Jupyter精选资源合集！GitHub高赞，包括项目、库、教程等11个方面
+https://mp.weixin.qq.com/s/flN5HfkCtFpm_K5VSig1bA
+【收藏】8款大型机器学习数据集顶级资源
+https://mp.weixin.qq.com/s/J3mJ7nqqfpMRyOaUs0NfvA
+自然语言处理中注意力机制综述
+https://mp.weixin.qq.com/s/HIL7X50xKsHVcY7lcfnxeQ
+去噪算法升个级，图片瞬间变清晰 | 论文
+https://mp.weixin.qq.com/s/-LaYPuCyesuJF19xOlKUtA
+循环神经网络（RNN）和LSTM初学者指南 | 入门资料
+https://mp.weixin.qq.com/s/LrG1Ek_Av1QSrfrcLKAGpw
+阿里开源实时计算平台Blink，能让计算延迟降至毫秒级 | 附技术详解
+https://mp.weixin.qq.com/s/5QwXY6gqGtAOAw1qwEUTAg
+超详细深度学习debug指南，国外小哥手把手教你如何调试模型 | 附PPT
+https://mp.weixin.qq.com/s/2qvLk4gqSrI2dslD4d9V5g
+香侬科技提出中文字型的深度学习模型Glyce，横扫13项中文NLP记录
+https://mp.weixin.qq.com/s/krW1eUFu7iz9YyYFGbFVeQ
+真·干货！这套深度学习教程整理走红，从理论到实践的带你系统学习 | 资源
+https://mp.weixin.qq.com/s/-kzuIgiflchf7UusLKmPTA
+开放的一天，吴恩达、谷歌、Facebook纷纷开源数据集
+https://mp.weixin.qq.com/s/jfDoh2h-YJM89fcmKPoFWw
+21种NLP任务激活函数大比拼：你一定猜不到谁赢了
+https://mp.weixin.qq.com/s/VSRtjIH1tvAVhGAByEH0bg
+斯坦福联合MIT，发布两类巨大量级X光胸片数据集
+https://mp.weixin.qq.com/s/9TFLE3R7ct0HzaAwOCfkbw
+沈向洋力荐，周明、李沐执笔：要了解智能问答和机器翻译，先看这两本书！
+https://mp.weixin.qq.com/s/IPbInCl_0BpHJ3ZyrhsKaA
+NLP新基准！谷歌重磅发布开放问答数据集，30万自然提问+人工注释答案
+https://mp.weixin.qq.com/s/TSQqT9FQKGBjD4WaaKhs0w
+如何用20万条客服咨询消息“喂”出定制化聊天机器人
+https://mp.weixin.qq.com/s/hhWRhBeRCmxjr9Lh8aE_Ww
+Facebook开源NLP迁移学习工具包，支持93种语言，性能最优
+https://mp.weixin.qq.com/s/3APebPzc5_Kl7377_VuqLg
+五张动图，看清神经机器翻译里的Attention！
+https://mp.weixin.qq.com/s/-gAISWjSiG6ccPuOPAEg3A
+中山大学新突破：自监督学习实现精准3D人体姿态估计
+https://mp.weixin.qq.com/s/kzuRWnEUZOFxAza0o4uXog
+AAAI 2019：一文看全微软亚洲研究院 27 篇重点论文
+https://mp.weixin.qq.com/s/XXja9jtlvrJyeE3Kb3bUUg
+Google发布超难问答数据集「自然问题」：30万对问答，BERT都达不到70分
+https://mp.weixin.qq.com/s/huD5sO6jRCKjCrwXJp1Hgw
+Uber提出有创造力的POET：自行开发更困难环境和解决方案
+https://mp.weixin.qq.com/s/_uds8dgxzaXQG7GXn3VIJA
+【谷歌研究总监推荐】100页看完机器学习 (电子书免费下载)
+https://mp.weixin.qq.com/s/hvnvil2LFDudD0Giz7_rDA
+本周有哪些值得读的 AI 论文？我们替你挑选了 18 篇
+https://mp.weixin.qq.com/s/dIvxYSZDBunSin23eqAZ1g
+谷歌首席决策科学家：30篇文章通关数据科学与人工智能
+https://mp.weixin.qq.com/s/KBRwWNeHxQnpsKjkZK3QbA
+Yann LeCun、吴恩达的新年AI预测：强调“少样本学习”，AI恐慌在减少
+https://mp.weixin.qq.com/s/E5sokIphcsqB8DhHTmtaPQ
+你说“神马”？非正式汉语数据集资源上线，帮你训练网络语言处理
+https://mp.weixin.qq.com/s/xzHMzQ4uVBJaUR8b_KNptA
+30个经典机器学习项目，GitHub星星加起来超过16万丨资源
+https://mp.weixin.qq.com/s/TvuimumtRO8hLl9rGxIRww
+Python开源项目大集合：15个领域，181个项目? | 硬核干货
+https://mp.weixin.qq.com/s/Q1xhfRsHt0N5MUoDPrdrAw
+不用啃大部头，这本《100页的机器学习书》已收获7000读者
+https://mp.weixin.qq.com/s/gGaYAz_gxBpk2yl-fcCKYw
+史上最全！计算机科学领域顶会最佳论文大合集：微软研究院最多，清华排24 | 资源
+https://mp.weixin.qq.com/s/hLvhTtfsD7Uspyl_8R7ZSw
+资源 | 这是一份非常全面的开源数据集，你，真的不想要吗
+https://mp.weixin.qq.com/s/h4FUBI6w1IPQssebR1eSXw
+这些AI课网课最具人气！不仅免费、系统，还附带链接 | 资源
+?https://mp.weixin.qq.com/s/G-YJnkEz8NI-tES6QhtnzA
+没人告诉你的大规模部署AI高效流程！
+https://mp.weixin.qq.com/s/xV5cLbCPb7Nh6i4i7DxJIQ
+关于 K means 聚类算法，你需要知道这些东西
+https://mp.weixin.qq.com/s/uQALrR9HPgWvJOJ8sEedzA
+使用K-means算法进行客户分类
+https://mp.weixin.qq.com/s/5G74AwoHzLqnS_hY76hUcg
+正则表达式教程：实例速查
+https://mp.weixin.qq.com/s/WiehJocms04jWAVgkO2xxQ
+基于 Python 的自动文本提取：抽象法和生成法的比较
+https://mp.weixin.qq.com/s/jzu7VOr6SBPwBgpCTeGnfA
+股票跌跌不休，不如用神经网络来预测一下未来走势
+https://mp.weixin.qq.com/s/ZMQjuSjIRWHFZo7Oijsq2A
+这 25 个开源机器学习项目，一般人我不告诉 Ta
+https://mp.weixin.qq.com/s/mAD_nx8BelsbQf1PI7h9CA
+GitHub项目推荐 | ChainerCV：计算机视觉中的深度学习图书馆
+https://mp.weixin.qq.com/s/tz4Ym9B2jprb4bUHwrpc2g
+AI/机器学习年度2018年度进展综述
+https://mp.weixin.qq.com/s/vqbS_4PphIaIL__ro0uxtg
+使用 Mobilenet 和 Keras 来做迁移学习
+https://mp.weixin.qq.com/s/QEX_H7g3xL27_t1gefveag
+博客 | 关于SLU（意图识别、槽填充、上下文LU、结构化LU）和NLG的论文汇总
+https://mp.weixin.qq.com/s/_S7eDWUSDG8J3DA75hQDLA
+博客 | 总结+paper分享|对话系统中的自然语言生成技术（NLG）
+https://mp.weixin.qq.com/s/BkK2qvv1L3Twazcqgl6NCg
+博客 | 总结 | 对话系统中的口语理解技术(SLU)（三）
+https://mp.weixin.qq.com/s/K5MBBW3jnCiH6NhUlx0Brg
+博客 | 收藏 | 100多个DL框架、AI库、ML库、NLP库、CV库汇总，建议收藏！
+https://mp.weixin.qq.com/s/fOVEpjGzfoOcNCRez8-S7A
+如何和用keras和tensorflow构建企业级NER
+https://mp.weixin.qq.com/s/FsWJVOcG_DLhvGvhlE9mcA
+博客 | 斯坦福大学—自然语言处理中的深度学习（CS 224D notes-2）
+https://mp.weixin.qq.com/s/YmpT4v5ja8pgV7nzQaX1_g
+从零开始用Python写一个聊天机器人（使用NLTK）
+https://mp.weixin.qq.com/s/jLzveX8eu5Q6zgUZEPKd8g
+自然语言处理中的词表征（第二部分）
+https://mp.weixin.qq.com/s/wFUB99VxcOCWLBzteFpLhA
+业界 | BAIR讲述如何利用深度强化学习控制灵活手
+https://mp.weixin.qq.com/s/00zHwpw2xWP2fR9sDHE2Xw
+资源 | 自然语言语义代码搜索之路
+https://mp.weixin.qq.com/s/GFIxA9kEGNJ9rg96mRw0PQ
+深度 | 从各种注意力机制窥探深度学习在NLP中的神威
+https://mp.weixin.qq.com/s/1LYz5SH5rVnPPJ0tZvRQAA
+买到回家的票了吗？用Python刷票，还不快来试试！
+https://mp.weixin.qq.com/s/hcNw2DOrg4Edh_RK4zUT9w
+最强NLP预训练模型！谷歌BERT横扫11项NLP任务记录
+https://mp.weixin.qq.com/s/W0iDs3jYkYONiZwJ8vzYwA
+资源 | DeepMind开源图网络库，一种结合图和神经网络的新方法
+https://mp.weixin.qq.com/s/9fFjVSiMg-LwddXfNJuKuw
+资源 | Bengio等人的2018夏季课程视频终放出，但有些沉重
+https://mp.weixin.qq.com/s/sBEHEv_INyN84CrpBRypvQ
+资源 | 过去一年最牛逼的30个机器学习项目
+https://mp.weixin.qq.com/s/TXmuukO2v6P_gMLbEOPQPw
+教程 | 利用AllenNLP，百行Python代码训练情感分类器
+https://mp.weixin.qq.com/s/QZT1SLCVFXBE-1FNNhWk0g
+谷歌终于开源BERT代码：3 亿参数量，机器之心全面解读
+https://mp.weixin.qq.com/s/vFdm-UHns7Nhbmdoiu6jWg
+期待已久！邓力、刘洋等合著的这本NLP书你确定不想看
+https://mp.weixin.qq.com/s/D67TTptL9u19p65mLMugnw
+254页PPT！这是一份写给NLP研究者的编程指南
+https://mp.weixin.qq.com/s/EkpCHNLI7KiBjXg6lFMguw
+资源 | FAIR & NYU开发XNLI语料库：15种语言（含低资源语言）
+https://mp.weixin.qq.com/s/h117GvaMd92JcethvI8vRg
+资源 | 1460万个目标检测边界框：谷歌开源Open Images V4数据集
+https://mp.weixin.qq.com/s/0b0g-IwJVsiKKTY_TLRmZA
+小数据福音！BERT在极小数据下带来显著提升的开源实现
+https://mp.weixin.qq.com/s/7H8KxKEMhw__Z5Upp1yshg
+图解当前最强语言模型BERT：NLP是如何攻克迁移学习的？
+https://mp.weixin.qq.com/s/HXYDO5PM8UIoXgEPGe8p-w
+Facebook开源NLP建模框架PyText，从论文到产品部署只需数天
+https://mp.weixin.qq.com/s/VC8PoYGnrXcktP7RT10LGQ
+集20年之大成，这是一本开源的算法教科书
+https://mp.weixin.qq.com/s/OH0sX6QLAMjDdnGv-xqdsA
+NeurIPS 2018 oral论文解读：如何给词嵌入模型选择最优维度
+https://mp.weixin.qq.com/s/KjDwumX8FViKC4FNWdml_w
+阿里开源首个DL框架，新型XDL帮你搞定大规模稀疏数据
+https://mp.weixin.qq.com/s/chBO6nPLMPZPjbew2ZLuJA
+继BERT之后，这个新模型再一次在11项NLP基准上打破纪录
+https://mp.weixin.qq.com/s/0xmW8KXOZQw-TGr93Ni-tw
+简单易用NLP框架Flair发布新版本！（附教程）
+https://mp.weixin.qq.com/s/Gg5wIyMl5XqG7ju4DPJ5fg
+NLP预训练模型大集合！
+https://mp.weixin.qq.com/s/Ny4EVhuz34LZ4tks9Rk9Nw
+机器之心年度盘点：2018年重大研究与开源项目
+https://mp.weixin.qq.com/s/bcjC4087c-2QeGxY2Dpjvg
+清华大学NLP组年末巨献：机器翻译必读论文列表
+https://mp.weixin.qq.com/s/1B6mij2tBcaP9wEP8o_pzw
+沈向洋等人论文详解微软小冰，公开研发细节
+https://mp.weixin.qq.com/s/BxWghISUAAxefq0jKptgCQ
+新年大礼包：机器之心2018高分教程合集
+https://mp.weixin.qq.com/s/0oWP61o7fP-x3ir5KSHT4Q
+吴恩达的课上完了？如何科学开启你的深度学习论文阅读生涯
+https://mp.weixin.qq.com/s/KC7jNvYD3AjiNu_hoHp5dg
+手把手 | 关于商业部署机器学习，这有一篇详尽指南
+https://mp.weixin.qq.com/s/Mcg5rj3QrgVj3wyY4xttnQ
+Reading Club | 无处不在的调度算法：如何科学地管理自己的时间？
+https://mp.weixin.qq.com/s/bRI_kbRZ_fm_hEz_FXbMHQ
+目标检测必须要OpenCV？10行Python代码也能实现，亲测好用！
+https://mp.weixin.qq.com/s/RWVRHSzozktawqygbeUxyA
+资源 | 如何改善你的训练数据集？（附案例）
+https://mp.weixin.qq.com/s/lMU6_ywQqneyunqEV6uDiA
+业界 | 5个步骤开启你的数据科学职业生涯！（附链接）
+https://mp.weixin.qq.com/s/wiQRkRY_2oADyV9qBJtfhQ
+超级大汇总！200多个最好的机器学习、NLP和Python教程
+https://mp.weixin.qq.com/s/PKjre0F1jHO7knAPE-yZ_A
+驰骋股市！手把手教你如何用Python和数据科学赚钱
+https://mp.weixin.qq.com/s/6EYGOpOvfzrlIIprnQxTKg
+AI情绪识别技术背后：一场悄然来袭的“暴政”
+https://mp.weixin.qq.com/s/dmIu9WCv7vo8zCBCZuwHaQ
+手把手 | 教你用几行Python和消费数据做客户细分
+https://mp.weixin.qq.com/s/JRonlVEAnlBnmy6Br55E3g
+几千条文本库也能做机器学习！NLP小数据集训练指南
+https://mp.weixin.qq.com/s/kef7F8hlkavvVpD1gQt8hA
+学界 | NLP年度盛宴EMNLP/CoNLL 2018最精彩论文精选（摘要+评论）
+https://mp.weixin.qq.com/s/NW0y2_dr9gPYaJ_K4SkdBw
+资源 | Python 开源项目最新月榜TOP 10
+https://mp.weixin.qq.com/s/wtd-Cn3gvkaJr8INrMq1mQ
+吴恩达在Coursera开新课了! “全民AI”强势来袭
+https://mp.weixin.qq.com/s/e_lLwzPAQpxmhCpp46_RUA
+资源 | 经典之作《算法精解·C语言描述》
+https://mp.weixin.qq.com/s/ddQJg043GZKZQUAl-cnGnA
+Java四大名著之一《Effective Java 第2版》
+https://mp.weixin.qq.com/s/vLc6Mxd0S3pgqIXKRDdZKg
+资源 | 深度学习：21天实战Caffe
+https://mp.weixin.qq.com/s/8KPSpdXir0xvDwq2BJRajw
