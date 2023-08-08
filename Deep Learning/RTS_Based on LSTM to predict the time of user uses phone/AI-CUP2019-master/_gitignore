@@ -1,0 +1,13 @@
+/aicup2019_venv
+/.vscode
+/glove
+/task1/*.pkl
+/task1/*.ini
+/.ipynb_checkpoints
+/task1/model
+/task1/test_experiment
+/task1/submission_*.csv
+/task2/test_experiment
+/task2/model
+/task2/task2_submission_*.csv
+/task2/*.ini
